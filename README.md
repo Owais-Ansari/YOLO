@@ -6,16 +6,18 @@
 
 
 # YOLO
-Documentations: to-do/
-availaible models : YOLOv3, YOLOv3_aspp/
-availaible backbones : Darknet53, convnext_tiny, convnext_small/
-availaible augmentations : {Geometric: [flip, Sharpen, RandomRotate, GaussNoise],/
-                            color:[RGBShift ,HueSaturationValue, ColorJitter,RandomBrightnessContrast,ChannelShuffle]}/
-augmentation: mosaic (to-do), cutmix(to-do)/
-detect.py: to-do  (soon)/
-bboxes_from_masks: to-do/
-pretrained-link: to-do/
-architectures to-do: yolov4, yolov5 (soon)/
+-  Documentations: to-do
+-  availaible models : YOLOv3, YOLOv3_aspp
+-  availaible backbones : Darknet53, convnext_tiny, convnext_small
+-  availaible augmentations : {Geometric: [flip, Sharpen, RandomRotate, GaussNoise],
+                            color:[RGBShift ,HueSaturationValue, ColorJitter,RandomBrightnessContrast,ChannelShuffle]}
+-  augmentation: mosaic (to-do), cutmix(to-do)
+-  detect.py: to-do  (soon)
+-  bboxes_from_masks: to-do
+-  pretrained-link: to-do
+-  architectures to-do: yolov4, yolov5 (soon)
+-  training from coco-json: to-do
+-  add mean_average_precision: to-do
 
 
 
