@@ -9,8 +9,7 @@
 -  Documentations: to-do
 -  availaible models : YOLOv3, YOLOv3_aspp
 -  availaible backbones : Darknet53, convnext_tiny, convnext_small
--  availaible augmentations : {Geometric: [flip, Sharpen, RandomRotate, GaussNoise],
-                            color:[RGBShift ,HueSaturationValue, ColorJitter,RandomBrightnessContrast,ChannelShuffle]}
+-  availaible augmentations : Geometric, Color
 -  augmentation: mosaic (to-do), cutmix(to-do)
 -  detect.py: to-do  (soon)
 -  bboxes_from_masks: to-do
