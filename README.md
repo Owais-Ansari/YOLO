@@ -58,4 +58,5 @@ ANCHORS = [
 ```
 
 # For trainig run below command in the terminal
-python train.py
+```python train.py
+```
