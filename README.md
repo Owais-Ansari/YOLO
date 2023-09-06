@@ -7,16 +7,16 @@
 
 # YOLO
 -  Documentations: to-do
--  availaible models : YOLOv3, YOLOv3_aspp
--  availaible backbones : Darknet53, convnext_tiny, convnext_small
--  availaible augmentations : Geometric, Color, Blur, Noise
+-  available models : YOLOv3, YOLOv3_aspp
+-  available backbones : Darknet53, convnext_tiny, convnext_small
+-  available augmentations : Geometric, Color, Blur, Noise
 -  augmentation: mosaic (to-do), cutmix(to-do)
 -  detect.py: to-do  (soon)
 -  bboxes_from_masks: to-do
 -  pretrained-link: to-do
 -  architectures to-do: yolov4, yolov5 (soon)
 -  training from coco-json: to-do
--  add mean_average_precision: to-do
+-  adding mean_average_precision: to-do
 
 
 
