@@ -183,7 +183,7 @@ def train(train_loader, model, scaler, YoloLoss, scaled_anchors, optimizer, sche
         scaler.step(optimizer)
         scaler.update()
         
-        state['lr'] =   config.LEARNING_RATE#scheduler.optimizer.param_groups[0]['lr']
+        state['lr'] =   scheduler.optimizer.param_groups[0]['lr']
         
         class_accuracy, obj_accuracy, no_obj_accuracy = check_class_accuracy(y,out,conf_threshold,device)
         
